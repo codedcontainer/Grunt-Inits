@@ -1,0 +1,21 @@
+{
+  "name": "JagTag New Web Design",
+  "version": "0.0.0",
+  "authors": [
+    "jutt <jutt@iupui.edu>"
+  ],
+  "description": "New website design for jagtag website 2015",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.3.0",
+    "bxslider-4": "~4.2.3",
+    "bootstrap": "~3.3.4"
+  }
+}
